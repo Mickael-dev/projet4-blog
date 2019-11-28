@@ -36,7 +36,6 @@
                     <li><a href="index.php?action=listPosts#chapitres">Chapitres</a></li>
                     <li><a href="#" class="scroll">L'auteur</a></li>
                     <li><a href="index.php?action=loginAdmin">Connexion</a></li>
-                    <li><a href="index.php?action=admin">Admin</a></li>
                 </ul>
             </nav>
         </header>
